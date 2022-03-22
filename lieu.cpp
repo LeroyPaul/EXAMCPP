@@ -17,6 +17,7 @@ string Lieu::getDescription(){
 
 int Lieu::getDifficulte(){
     return _difficulte;}
+    
 
 
 
