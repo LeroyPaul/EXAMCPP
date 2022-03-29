@@ -9,7 +9,7 @@ using namespace std;
 int main(){
 
 Lieu * foret = new Lieu("Foret","On y croise beaucoup d'arbres",8);
-Lieu * montagne = new Lieu("Montagne","On y croise beaucoup de caillous",12);
+Lieu * montagne = new Lieu("Montagne","On y croise beaucoup de cailloux",12);
 Lieu * lac = new Lieu("Lac","On y croise beaucoup d'eau",3);
 
 
